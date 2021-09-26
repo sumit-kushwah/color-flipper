@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../scss/style.scss"
+	],
+	"sourcesContent": [
+		".nav {\n  display: flex;\n  justify-content: space-around;\n\n  h4 {\n    display: block;\n  }\n\n  .nav-links { \n    display: flex;\n  }\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACH,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,YAAY;CAS9B;;;AAXD,AAIE,IAJE,CAIF,EAAE,CAAC;EACD,OAAO,EAAE,KAAK;CACf;;;AANH,AAQE,IARE,CAQF,UAAU,CAAC;EACT,OAAO,EAAE,IAAI;CACd"
+}
